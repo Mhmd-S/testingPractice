@@ -13,4 +13,4 @@ function reverseString(word) {
 
 
 
-module.exports = {capitalize, reverseString};
+export {capitalize, reverseString}
